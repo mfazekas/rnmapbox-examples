@@ -2,11 +2,17 @@
 
 ## Configure
 
-Create and `accesstoken.json` file, with your accesstoken in quotes:
+Create and `rnrnmapboxts/accesstoken.json` file, with your accesstoken in quotes:
+
+```sh
+code rnrnmapboxts/accesstoken.json
+```
 
 ```json
 "pk.<rest of your token>"
 ```
+
+
 
 ## Instructions to recreate the ReactNative project
 
